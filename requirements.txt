@@ -1,0 +1,21 @@
+pillow 
+django
+django-admin-interface
+psycopg2-binary
+django-crispy-forms
+django-axes
+djangorestframework
+reportlab
+django-simple-captcha
+cloudinary 
+whitenoise
+
+
+
+
+
+
+#ola40
+#copiaAntiHost
+# pip install r requirements.txt
+
